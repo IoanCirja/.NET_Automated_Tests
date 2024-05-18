@@ -3,7 +3,9 @@ using AutomationProject2024.TestData;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Interactions;
 using System;
+using System.Collections.Generic;
 using System.Threading;
 /*  to have these namespaces you need to add in solution 
 from ManageNuGet Packages the following:
@@ -20,27 +22,42 @@ namespace AutomationProject2024
         private HomePage homePage;
         private RegisterUserData userData;
         private RegisterPage registerPage;
-
+        private LaptopPage laptopPage;
+        private MenuItemsBeforeSignIn menuItemsBeforeSignIn;
 
         [TestInitialize]
         public void Setup()
         {
             ChromeOptions options = new ChromeOptions();
-            driver= new ChromeDriver(options);
+            driver = new ChromeDriver(options);
             driver.Manage().Window.Maximize();
             driver.Navigate().GoToUrl("https://www.itgalaxy.ro/");
 
             homePage = new HomePage(driver);
             userData = new RegisterUserData(driver);
             registerPage = new RegisterPage(driver, userData);
-
+            laptopPage = new LaptopPage(driver);
+            menuItemsBeforeSignIn = new MenuItemsBeforeSignIn(driver);
         }
 
-        [TestMethod]
+        
 
+        [TestMethod]
+        public void ShouldGoToLaptopsPage()
+        {
+           
+            menuItemsBeforeSignIn.GoToLaptopsPage();
+            LaptopPage laptopPage = new LaptopPage(driver);
+            Assert.IsTrue(laptopPage.GetPageTitle().Equals(Resources.laptopPageTitle),ValidationText.UnknownText);
+
+            laptopPage.GoToLaptopPageAscending();
+        }
+
+
+        [TestMethod]
         public void ShouldRegisterIfCredentialsAreValid()
         {
-            //homePage.ClickConsent();
+           homePage.ClickConsent();
             homePage.GoRegister();
 
             userData.GenerateData();
@@ -48,9 +65,10 @@ namespace AutomationProject2024
 
             Thread.Sleep(30000);
 
-        }
-            
 
+
+        }
+        
         //[TestMethod]
         //public void LoginValidAccount()
         //{
@@ -98,7 +116,9 @@ namespace AutomationProject2024
         [TestCleanup]
         public void CloseBrowser()
         {
+            Thread.Sleep(5000); // asteptare 5 secunde
             driver.Quit();
         }
+        
     }
 }

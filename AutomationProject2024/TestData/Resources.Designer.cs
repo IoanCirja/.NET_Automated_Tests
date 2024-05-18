@@ -70,6 +70,15 @@ namespace AutomationProject2024.TestData {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Laptopuri.
+        /// </summary>
+        internal static string laptopPageTitle {
+            get {
+                return ResourceManager.GetString("laptopPageTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to MagentoTests2024!.
         /// </summary>
         internal static string password {

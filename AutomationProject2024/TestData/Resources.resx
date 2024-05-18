@@ -120,6 +120,9 @@
   <data name="email" xml:space="preserve">
     <value>testUser@yahoo.com</value>
   </data>
+  <data name="laptopPageTitle" xml:space="preserve">
+    <value>Laptopuri</value>
+  </data>
   <data name="password" xml:space="preserve">
     <value>MagentoTests2024!</value>
   </data>

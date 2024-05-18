@@ -61,6 +61,10 @@
   <ItemGroup>
     <Compile Include="MagentoTests.cs" />
     <Compile Include="PageObjectModel\HomePage.cs" />
+    <Compile Include="PageObjectModel\LaptopPage.cs" />
+    <Compile Include="PageObjectModel\LaptopPageAscending.cs" />
+    <Compile Include="PageObjectModel\MenuItems.cs" />
+    <Compile Include="PageObjectModel\MenuItemsBeforeSignIn.cs" />
     <Compile Include="PageObjectModel\RegisterPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestData\RegisterUserData.cs" />
