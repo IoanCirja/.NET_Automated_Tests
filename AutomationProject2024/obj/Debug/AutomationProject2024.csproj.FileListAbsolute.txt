@@ -25,3 +25,30 @@ C:\Users\IoanC\Desktop\CENTRIC_PROIECT\AutomationProject2024\bin\Debug\Microsoft
 C:\Users\IoanC\Desktop\CENTRIC_PROIECT\AutomationProject2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\IoanC\Desktop\CENTRIC_PROIECT\AutomationProject2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\IoanC\Desktop\CENTRIC_PROIECT\AutomationProject2024\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\AutomationProject2024.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\AutomationProject2024.pdb
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\Newtonsoft.Json.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\WebDriver.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\WebDriver.Support.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\Newtonsoft.Json.xml
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\WebDriver.xml
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\bin\Debug\WebDriver.Support.xml
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\obj\Debug\AutomationProject2024.csproj.AssemblyReference.cache
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\obj\Debug\AutomationProject2024.TestData.Resources.resources
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\obj\Debug\AutomationProject2024.TestData.ValidationText.resources
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\obj\Debug\AutomationProject2024.csproj.GenerateResource.cache
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\obj\Debug\AutomationProject2024.csproj.CoreCompileInputs.cache
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\obj\Debug\Automati.FCCC35F8.Up2Date
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\obj\Debug\AutomationProject2024.dll
+C:\Users\flore\Documents\Testare\Proiect testare\AutomationProject2024\obj\Debug\AutomationProject2024.pdb

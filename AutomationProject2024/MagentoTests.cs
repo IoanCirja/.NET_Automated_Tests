@@ -3,7 +3,9 @@ using AutomationProject2024.TestData;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
 using System;
+using System.Runtime.InteropServices;
 using System.Threading;
 /*  to have these namespaces you need to add in solution 
 from ManageNuGet Packages the following:
@@ -20,6 +22,8 @@ namespace AutomationProject2024
         private HomePage homePage;
         private RegisterUserData userData;
         private RegisterPage registerPage;
+        private ShippingAddressPage shippingAddressPage;
+        private ShippingAddressData shippingAddressData;
 
 
         [TestInitialize]
@@ -33,6 +37,9 @@ namespace AutomationProject2024
             homePage = new HomePage(driver);
             userData = new RegisterUserData(driver);
             registerPage = new RegisterPage(driver, userData);
+            shippingAddressData = new ShippingAddressData();
+            shippingAddressPage = new ShippingAddressPage(driver, shippingAddressData);
+
 
         }
 
@@ -46,10 +53,33 @@ namespace AutomationProject2024
             userData.GenerateData();
             registerPage.Register();
 
-            Thread.Sleep(30000);
+            Thread.Sleep(3000);
 
         }
-            
+        [TestMethod]
+        public void ShouldAddInfoInShippingFormIfDataIsValid()
+        {
+            try 
+            {
+                driver.Navigate().GoToUrl("https://www.itgalaxy.ro/suport-telefon/nex/compatibilitate-universala-32g-deschidere-brate-53mm-90mm-rotire-360-grade-negru-302009/");
+                Thread.Sleep(600);
+                shippingAddressPage.PressAddToCartButton();
+                Thread.Sleep(3000);
+                driver.Navigate().GoToUrl("https://www.itgalaxy.ro/trimite-comanda/#livrare-si-plata");
+
+                shippingAddressData.GenerateAddressData();
+
+                Thread.Sleep(3000);
+                shippingAddressPage.AddingDataIntoShippingForm();
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Test failed: {ex.Message}");
+                throw;
+            }
+        }
+
 
         //[TestMethod]
         //public void LoginValidAccount()
