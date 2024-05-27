@@ -1,0 +1,48 @@
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\AC2024.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\AC2024.pdb
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\Newtonsoft.Json.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\WebDriver.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\WebDriver.Support.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\Newtonsoft.Json.xml
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\WebDriver.xml
+D:\Facultate\An3\Testarea produselor software\AC2024\bin\Debug\WebDriver.Support.xml
+D:\Facultate\An3\Testarea produselor software\AC2024\obj\Debug\AC2024.csproj.AssemblyReference.cache
+D:\Facultate\An3\Testarea produselor software\AC2024\obj\Debug\AC2024.csproj.CoreCompileInputs.cache
+D:\Facultate\An3\Testarea produselor software\AC2024\obj\Debug\AC2024.csproj.Up2Date
+D:\Facultate\An3\Testarea produselor software\AC2024\obj\Debug\AC2024.dll
+D:\Facultate\An3\Testarea produselor software\AC2024\obj\Debug\AC2024.pdb
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\AC2024.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\AC2024.pdb
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\Newtonsoft.Json.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\WebDriver.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\WebDriver.Support.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\Newtonsoft.Json.xml
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\WebDriver.xml
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\bin\Debug\WebDriver.Support.xml
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\obj\Debug\AC2024.csproj.AssemblyReference.cache
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\obj\Debug\AC2024.csproj.CoreCompileInputs.cache
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\obj\Debug\AC2024.csproj.Up2Date
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\obj\Debug\AC2024.dll
+D:\Facultate\An3\TestareaProduselorSoftware\AC2024\obj\Debug\AC2024.pdb
