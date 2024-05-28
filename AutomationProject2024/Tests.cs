@@ -104,7 +104,7 @@ namespace AutomationProject2024
 
         #region Tests
         /// <summary>
-        /// Testează înregistrarea cu date valide.
+        /// Testează înregistrarea cu date valide.(Ioan Cirja)
         /// </summary>
         [TestMethod]
         public void ShouldRegisterIfCredentialsAreValid()
@@ -117,7 +117,7 @@ namespace AutomationProject2024
 
         }
         /// <summary>
-        /// Testează înregistrarea cu date lipsă.
+        /// Testează înregistrarea cu date lipsă. (Ioan Cirja)
         /// </summary>
         [TestMethod]
         public void ShouldNotRegisterBecauseCredentialsAreMissing()
@@ -136,7 +136,7 @@ namespace AutomationProject2024
 
         }
         /// <summary>
-        /// Testează înregistrarea cu un cont deja existent.
+        /// Testează înregistrarea cu un cont deja existent. (Ioan Cirja)
         /// </summary>
         [TestMethod]
         public void ShouldNotRegisterBecauseAccountAlreadyExists()
@@ -156,8 +156,8 @@ namespace AutomationProject2024
         }
 
         /// <summary>
-        /// Testează autentificarea cu date valide.
-        /// </summary>
+        /// Testează autentificarea cu date valide. (Ioan Cirja)
+        /// </summary> 
         [TestMethod]
         public void ShouldLoginIfCredentialsAreValid()
         {
@@ -168,7 +168,7 @@ namespace AutomationProject2024
 
         }
         /// <summary>
-        /// Testează autentificarea cu un email invalid.
+        /// Testează autentificarea cu un email invalid. (Ioan Cirja)
         /// </summary>
         [TestMethod]
         public void ShouldNotLoginBecauseEmailIsInvalid()
@@ -181,7 +181,7 @@ namespace AutomationProject2024
 
         }
         /// <summary>
-        /// Testează autentificarea cu un cont inexistent.
+        /// Testează autentificarea cu un cont inexistent. (Ioan Cirja)
         /// </summary>
         [TestMethod]
         public void ShouldNotLoginBecauseAccountNotCreated()
@@ -194,7 +194,7 @@ namespace AutomationProject2024
 
         }
         /// <summary>
-        /// Testează navigarea către laptopuri sortate crescator.
+        /// Testează navigarea către laptopuri sortate crescator. (Alexandra Butu)
         /// </summary>
         [TestMethod]
         public void ShouldGoToLaptopsPage()
@@ -207,7 +207,7 @@ namespace AutomationProject2024
             laptopPage.GoToLaptopPageAscending();
         }
         /// <summary>
-        /// Testează completarea formularului de livrare cu date valide.
+        /// Testează completarea formularului de livrare cu date valide. (Alexandra Florea)
         /// </summary>
 
         [TestMethod]
@@ -235,7 +235,7 @@ namespace AutomationProject2024
         }
 
         /// <summary>
-        /// Testează adăugarea unui produs în coș folosind EdgeDriver.
+        /// Testează adăugarea unui produs în coș folosind EdgeDriver. (Vlad Bulgaru)
         /// </summary>
         [TestMethod]
         public void AdaugaCosMetoda2()
